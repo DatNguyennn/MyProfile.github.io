@@ -1,0 +1,32 @@
+body {
+  background-color: #324a69;
+      font-size: 18px;
+      margin-left: 120px;
+      margin-right: 120px;
+      margin-top: 60px;
+      margin-bot: 200px;
+
+    }
+
+a   {color:blue;}
+
+header   {
+  Color: white;
+  background-color: #0f5570;
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+
+}
+main {
+  background-color:#419ab5 ;
+  Color: #0c0d0d;
+  margin-left: 250px ;
+  margin-right: 250px ;
+
+}
+
+/* .columns { */
+  /* width: 750px; */
+  /* display:flex; */
+/* } */
